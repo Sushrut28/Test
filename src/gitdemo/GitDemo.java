@@ -18,8 +18,7 @@ public class GitDemo {
     public static void main(String[] args) {
         // TODO code application logic here
            
-        System.out.println("Hi
-        ggggg");
+        System.out.println("Hi");
     }
     
 }
